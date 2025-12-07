@@ -1,0 +1,25 @@
+li a {
+    color: green;
+    text-decoration: none;
+}
+
+body {
+    background: white url("../images/GettyImages_471763092.jpg") no-repeat center/cover;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.some {
+    font-style: italic;
+    background-color: red;
+    padding: 10px;
+    margin: 5px 0;
+    list-style: none;
+    border-radius: 5px;
+}
+
+.some a:hover {
+    color: darkgreen;
+    text-decoration: underline;
+}
